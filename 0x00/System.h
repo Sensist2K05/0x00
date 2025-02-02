@@ -5,7 +5,6 @@
 #define DATE_MONTH 1
 #define DATE_DAY 2
 
-
 INT 
 DateCheck( INT date ) 
 {
