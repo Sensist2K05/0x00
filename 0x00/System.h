@@ -77,5 +77,5 @@ ifWindowsXP( VOID )
 INT NotXP()
 {
     MessageBoxW(NULL, L"This does not support your version of Windows", L"0x00.exe - Error", MB_OK | MB_ICONERROR);
-	  exit(0);
+    exit(0);
 }
