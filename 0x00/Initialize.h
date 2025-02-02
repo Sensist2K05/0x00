@@ -3,7 +3,6 @@
 
 #pragma once
 #include "0x00.h"
-#include "System.h"
 
 DWORD WINAPI InitializeAllPayloads(LPVOID Void)
 {
